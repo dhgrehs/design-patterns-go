@@ -1,3 +1,4 @@
+// An example of Single Responsibility Principle
 package main
 
 import (
